@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeci226&show_icons=true&locale=en&layout=compact" alt="yeci226" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeci226&show_icons=true&locale=en" alt="yeci226" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeci226&show_icons=true&locale=en&count_private=true" alt="yeci226" /></p>
