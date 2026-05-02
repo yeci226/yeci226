@@ -48,7 +48,7 @@ const yeci = {
 | **塔塔露** | 最終幻想14 | 物品查詢、交易板、新聞訂閱、維護通知 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1006747370060533760) |
 | **Shifty** | 勝利女神：妮姬 | 角色數值、組隊系統、公告推播 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1368793547133816903) |
 | **Haneko** | 多功能 | 內容查詢、收藏夾、團隊管理 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=998934498274181132) |
-| **Outo** | 娛樂 | 猜動漫角色 / Anime Guessing Game | — |
+| **Outo** | 娛樂 | 自動回覆、猜動漫角色 / Auto-reply & Anime Guessing | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=998462106250784888&permissions=137439283264&scope=applications.commands+bot) |
 
 ---
 
@@ -71,9 +71,9 @@ const yeci = {
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeci226&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E8397C&text_color=aaaaaa&icon_color=E8397C)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeci226&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=E8397C&text_color=aaaaaa&cache_seconds=1800)](https://github.com/yeci226)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeci226&show_icons=true&locale=en&count_private=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E8397C&text_color=aaaaaa&icon_color=E8397C)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeci226&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=E8397C&text_color=aaaaaa&icon_color=E8397C&cache_seconds=1800)](https://github.com/yeci226)
 
 </div>
 
