@@ -1,18 +1,97 @@
-<h1 align="center">Hi 👋, I'm Yeci</h1>
-<h3 align="center">A Discord bot and full-stack web developer</h3>
+<div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/283946584461410305?idleMessage=Working%20On%20Discord%20Bot...)](https://discord.com/users/283946584461410305)
-![yeci](https://moe-counter.glitch.me/get/@:yeci226?theme=asoul)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeci226" alt="yeci226" /></a> </p>
+```
+██╗   ██╗███████╗ ██████╗██╗██████╗ ██████╗ ██████╗ ██████╗
+╚██╗ ██╔╝██╔════╝██╔════╝██║╚════██╗╚════██╗╚════██╗╚════██╗
+ ╚████╔╝ █████╗  ██║     ██║ █████╔╝ █████╔╝ █████╔╝ █████╔╝
+  ╚██╔╝  ██╔══╝  ██║     ██║██╔═══╝  ╚═══██╗██╔═══╝  ╚═══██╗
+   ██║   ███████╗╚██████╗██║███████╗██████╔╝███████╗██████╔╝
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝╚══════╝╚═════╝ ╚══════╝╚═════╝
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/mPCEATJDve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mPCEATJDve" height="30" width="40" /></a>
-</p>
+**Discord Bot Developer · Full-Stack Web Developer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+[![Discord](https://img.shields.io/badge/Discord-283946584461410305-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/283946584461410305)
+[![Website](https://img.shields.io/badge/Portfolio-yeci226.dev-E8397C?style=flat-square&logo=vercel&logoColor=white)](https://yeci226.dev)
+[![Lanyard](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Status&query=$.data.discord_status&url=https://api.lanyard.rest/v1/users/283946584461410305&colorA=0d0d0d&colorB=E8397C)](https://discord.com/users/283946584461410305)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeci226&show_icons=true&locale=en&layout=compact" alt="yeci226" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeci226&show_icons=true&locale=en&count_private=true" alt="yeci226" /></p>
+---
+
+## `$ whoami`
+
+```typescript
+const yeci = {
+  name:     "Yeci",
+  location: "Taiwan 🇹🇼",
+  focus:    ["Discord Bots", "Full-Stack Web", "Game Integrations"],
+  stack:    ["TypeScript", "Node.js", "Next.js", "React", "MongoDB"],
+  hobbies:  ["anime", "gacha games", "building things nobody asked for"],
+};
+```
+
+---
+
+## `$ ls ./bots`
+
+> 我開發並維護多個 Discord 機器人，覆蓋主流二次元遊戲生態
+> *A fleet of Discord bots covering the gacha game ecosystem.*
+
+| Bot | 遊戲 / Game | 功能亮點 / Highlights | 邀請 / Invite |
+|-----|------------|----------------------|--------------|
+| **星鐵小助手** | 崩壞：星穹鐵道 | 自動簽到、角色展櫃、躍遷分析、便簽 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=895191125512581171) |
+| **Corin** | 絕區零 | 自動簽到、信號紀錄、代理人檔案、禮包自動兌換 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1170366976162537543) |
+| **終末地小助手** | 明日方舟：終末地 | 自動簽到、角色查詢、新聞推播 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1463410818791116831) |
+| **Arona** | 蔚藍檔案 | 學生資料、模擬抽卡、隊伍展示圖、通知 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=985527578188210296) |
+| **塔塔露** | 最終幻想14 | 物品查詢、交易板、新聞訂閱、維護通知 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1006747370060533760) |
+| **Shifty** | 勝利女神：妮姬 | 角色數值、組隊系統、公告推播 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1368793547133816903) |
+| **Haneko** | 多功能 | 內容查詢、收藏夾、團隊管理 | [![invite](https://img.shields.io/badge/-邀請-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=998934498274181132) |
+| **Outo** | 娛樂 | 猜動漫角色 / Anime Guessing Game | — |
+
+---
+
+## `$ cat tech-stack.json`
+
+```json
+{
+  "languages":  ["TypeScript", "JavaScript", "Python", "Kotlin", "Bash"],
+  "frontend":   ["Next.js", "React", "HTML5", "CSS3"],
+  "backend":    ["Node.js", "Express", "discord.js"],
+  "database":   ["MongoDB", "Redis"],
+  "tools":      ["Git", "Linux", "Arduino", "Unity"],
+  "currently":  "Building the next bot nobody knew they needed"
+}
+```
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeci226&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E8397C&text_color=aaaaaa&icon_color=E8397C)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeci226&show_icons=true&locale=en&count_private=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E8397C&text_color=aaaaaa&icon_color=E8397C)
+
+</div>
+
+---
+
+## `$ ping yeci226`
+
+<div align="center">
+
+[![Discord Server](https://img.shields.io/badge/Support_Server-Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mPCEATJDve)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-E8397C?style=for-the-badge&logo=vercel&logoColor=white)](https://yeci226.dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-shawnyin226%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnyin226@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with TypeScript · Powered by discord.js · Maintained with ☕</sub>
+</div>
